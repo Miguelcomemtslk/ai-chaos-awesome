@@ -65,6 +65,6 @@ This list is released under **CC0-1.0** — see [LICENSE](LICENSE).
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/yourname/ai-chaos-awesome?style=social">
   </a>
   <a href="https://github.com/sbalnojan/ai-chaos-awesome/actions">
-    <img alt="Link Check" src="https://img.shields.io/github/actions/workflow/status/yourname/ai-chaos-awesome/link-check.yml?label=links">
+    <img alt="Link Check" src="https://img.shields.io/github/actions/workflow/status/sbalnojan/ai-chaos-awesome/link-check.yml?label=links">
   </a>
 </p>
