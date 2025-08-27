@@ -106,8 +106,6 @@ Have a high-signal resource? PRs welcome! Please read [CONTRIBUTING.md](CONTRIBU
 ## Maintainers
 - **@sbalnojan** — founder/maintainer. Opinions welcome; PRs welcome.
 
-**New here?** Try a starter task: [good first issues](https://github.com/sbalnojan/ai-chaos-awesome/labels/good%20first%20issue).
-
 ## License
 This list is released under **CC0-1.0** — see [LICENSE](LICENSE).
 
