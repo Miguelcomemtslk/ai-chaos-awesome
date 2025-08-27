@@ -61,10 +61,10 @@ This list is released under **CC0-1.0** — see [LICENSE](LICENSE).
 ---
 
 <p align="right">
-  <a href="https://github.com/yourname/ai-chaos-awesome/stargazers">
+  <a href="https://github.com/sbalnojan/ai-chaos-awesome/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/yourname/ai-chaos-awesome?style=social">
   </a>
-  <a href="https://github.com/yourname/ai-chaos-awesome/actions">
+  <a href="https://github.com/sbalnojan/ai-chaos-awesome/actions">
     <img alt="Link Check" src="https://img.shields.io/github/actions/workflow/status/yourname/ai-chaos-awesome/link-check.yml?label=links">
   </a>
 </p>
