@@ -2,7 +2,7 @@
 
 > Curated resources for **breaking AI systems on purpose** to build resilience — evaluation, chaos experiments, guardrails, observability, governance, and case studies.
 
-![AI Chaos Engineering](./media/ai-chaos-logo.png)
+![AI Chaos Engineering](./media/banner_terminal.png)
 
 A focused, living list for teams shipping LLM/RAG/agent systems who want to **trust their AI in production**.
 
